@@ -1,0 +1,18 @@
+{
+  "name": "ucurry",
+  "version": "0.0.1",
+  "description": "Partial function application allowing arbitrary arguments to be omitted using 'undefined'",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/runningskull/ucurry.git"
+  },
+  "author": "Juan Patten <jr@juanpatten.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runningskull/ucurry/issues"
+  }
+}
