@@ -1,7 +1,7 @@
 {
   "name": "ucurry",
   "version": "0.0.1",
-  "description": "Partial function application allowing arbitrary arguments to be omitted using 'undefined'",
+  "description": "Partial function application allowing arguments to be omitted out-of-order",
   "main": "index.js",
   "scripts": {
     "test": "nodeunit test"
